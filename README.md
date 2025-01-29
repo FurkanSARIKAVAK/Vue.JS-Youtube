@@ -1,24 +1,4 @@
-# youtube
+Proje Ekran Görüntüsü
 
-## Project setup
-```
-npm install
-```
+![Image](https://github.com/user-attachments/assets/2c3c5d92-ed5d-45b2-b30a-2d1fc79fe3e6)
 
-### Compiles and hot-reloads for development
-```
-npm run dev
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
